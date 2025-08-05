@@ -5,17 +5,17 @@ const AchievementsSection = () => {
     {
       number: "350+",
       label: "PROJECT DONE",
-      image: "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?auto=format&fit=crop&q=80&w=200&h=200"
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZc-ZOjKgMWPj5Sxq6zo-XQBHKgrLjtASt8Q&s"
     },
     {
       number: "4.7",
       label: "CUSTOMER RATING",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=200&h=200"
+      image: "https://static.vecteezy.com/system/resources/previews/024/380/732/non_2x/customer-review-icon-quality-rating-five-stars-on-black-background-vector.jpg"
     },
     {
       number: "300+",
       label: "CUSTOMERS",
-      image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=200&h=200"
+      image: "https://www.pngfind.com/pngs/m/680-6800038_customer-icon-png-transparent-png.png"
     }
   ];
 

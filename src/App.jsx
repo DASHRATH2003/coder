@@ -1,7 +1,8 @@
 import React from 'react'
+import TopBar from './components/TopBar'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import Services from './components/Services'
+import HomeAboutServices from './components/HomeAboutServices'
 import TechnologiesSection from './components/TechnologiesSection'
 import ProcessSection from './components/ProcessSection'
 import AchievementsSection from './components/AchievementsSection'
@@ -14,11 +15,12 @@ import Footer from './components/Footer'
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-black">
+      <TopBar />
       <Navbar />
-      <main>
+      <main className="bg-black">
         <Hero />
-        <Services />
+        <HomeAboutServices />
         <TechnologiesSection />
         <ProcessSection />
         <AchievementsSection />
