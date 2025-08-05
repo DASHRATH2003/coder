@@ -3,12 +3,12 @@ import React from 'react';
 const ClientTestimonials = () => {
   const testimonials = [
     {
-      text: "Working with Mariox has been a transformative experience for our company. Their team has been instrumental in guiding our digital strategy and implementing innovative solutions that have significantly improved our business operations.",
+      text: "Working with Ethernity Coders has been a transformative experience for our company. Their team has been instrumental in guiding our digital strategy and implementing innovative solutions that have significantly improved our business operations.",
       name: "Abhishek Tripathi",
       role: "CEO, TechSolutions Inc."
     },
     {
-      text: "My efforts in app development have changed massively thanks to Mariox. They have tremendously sophisticated technologies that I use to streamline campaigns, analyse data, and improve outcomes. I've had great growth and success in my business strategy due to their professional resources and assistance. Highly advisable.",
+      text: "My efforts in app development have changed massively thanks to Ethernity Coders. They have tremendously sophisticated technologies that I use to streamline campaigns, analyse data, and improve outcomes. I've had great growth and success in my business strategy due to their professional resources and assistance. Highly advisable.",
       name: "Anil Mehta",
       role: "Founder, AppInnovate"
     }

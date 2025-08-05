@@ -5,12 +5,12 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: "What industries can benefit from your mobile app development company in ?",
-      answer: "We at Mariox Software offer mobile app development company in, so businesses can excel in a society shifting towards technological solutions. We create reliable applications with extended functionalities for retail, finance, healthcare, applications of patient records, telemedicine and health plus E-commerce. Online boutiques and stores and virtual marketplaces. Education: Specific solutions can be learning management systems and mobile education platforms. For businesses to be on par with the growing efficiency, these mobile app development company in particular offer them a platform."
+      question: "What types of businesses can gain value from your mobile app solutions ?",
+      answer: "At Ethernity Coders, we offer cutting-edge mobile app development services that empower businesses to thrive in a technology-driven world. Our team builds reliable and scalable applications tailored for various industries, including healthcare (telemedicine, patient records), finance, retail, e-commerce (online stores, virtual marketplaces), and education (learning management systems, mobile learning apps). By delivering feature-rich solutions, we help businesses boost efficiency, streamline operations, and stay competitive in the digital era."
     },
     {
-      question: "How Much Does It Cost to Develop a Web App?",
-      answer: "The cost varies depending on complexity, features, and scope. Contact us for a detailed quote."
+      question: "What Is the Estimated Cost of Building a Web Application?",
+      answer: "The cost varies based on the app's complexity, features, and overall scope. For an accurate estimate tailored to your specific needs, feel free to contact us for a detailed quote."
     },
     {
       question: "What Technologies and Frameworks Are Commonly Used in Web App Development?",
