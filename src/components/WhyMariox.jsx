@@ -8,7 +8,7 @@ const WhyMariox = () => {
     },
     {
       title: "We're fast, Accurate & Reliable",
-      description: "Investing in a company to maximize a business's growth is one of the huge intangible decisions one can make. But Mariox Software Pvt. Ltd. has been a trustworthy destination for all its consumers"
+      description: "Investing in a company to maximize a business's growth is one of the huge intangible decisions one can make. But Mariox Software Pvt. Ltd. has been a trustworthy destination for all its consumers."
     },
     {
       title: "We support you round the clock",
@@ -20,12 +20,12 @@ const WhyMariox = () => {
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Heading */}
-        <div className="mb-16">
-          <h2 className="text-5xl font-bold mb-6 relative">
-            WHY MARIOX
-            <span className="absolute -top-1 -right-4 w-3 h-3 bg-[#ff4d00]"></span>
+        <div className="mb-16 text-center">
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 relative inline-block">
+            WHY ETERNITY 
+            <span className="absolute -top-1 -right-4 w-3 h-3 bg-[#ff4d00] rounded-full"></span>
           </h2>
-          <p className="text-2xl font-medium text-gray-800">
+          <p className="text-xl md:text-2xl font-medium text-gray-800 mt-6">
             WE BLEND EXPERTISE, INNOVATION, COLLABORATION,<br />
             AND RESULTS SEAMLESSLY.
           </p>
@@ -36,12 +36,12 @@ const WhyMariox = () => {
           {cards.map((card, index) => (
             <div 
               key={index}
-              className="bg-[#ff4d00] p-8 text-white min-h-[400px] flex flex-col"
+              className="bg-white p-8 border-l-4 border-[#ff4d00] shadow-lg min-h-[300px] flex flex-col hover:shadow-xl transition-shadow duration-300"
             >
-              <h3 className="text-2xl font-medium mb-8">
+              <h3 className="text-2xl font-bold mb-6 text-gray-800">
                 {card.title}
               </h3>
-              <p className="mt-auto text-white/90">
+              <p className="text-gray-600 leading-relaxed">
                 {card.description}
               </p>
             </div>
@@ -52,4 +52,4 @@ const WhyMariox = () => {
   );
 };
 
-export default WhyMariox; 
+export default WhyMariox;
